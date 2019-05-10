@@ -9,3 +9,8 @@ Check out the **[project website](http://dbv.vizuina.com)** for more details, fe
 
 My take on this application
 > It is a very nice application 
+
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
